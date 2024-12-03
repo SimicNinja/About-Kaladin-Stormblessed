@@ -1,0 +1,44 @@
+body
+{
+	background-color: #171717;
+	color: #28bc28;
+	padding: 20px;
+	margin-top: 0px;
+}
+
+h1
+{
+	text-align: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 45px;
+	color: #2a17a5;
+	margin-bottom: 0;
+}
+
+h2
+{
+	color: #53c5de;
+	line-height: 50%;
+	text-decoration: underline;
+	margin-bottom: 4;
+}
+
+h3
+{
+	color: #53c5de;
+	font-style: italic;
+	font-size: 14;
+	font-weight: 100;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+p
+{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 12;
+
+	margin-top: 0;
+	margin-bottom: 10px;
+	text-indent: 40px;
+}
